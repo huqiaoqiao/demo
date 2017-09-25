@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-jcrop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-jcrop.war">
+      <element id="artifact" artifact-name="spring-jcrop:war exploded" />
+    </root>
+  </artifact>
+</component>
